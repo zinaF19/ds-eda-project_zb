@@ -1,3 +1,36 @@
+# King County Housing – EDA Capstone
+
+## 1. Project Overview
+Brief description of the task, the client, and the goal.
+
+## 2. Data Source & Exploration
+- Where the data came from (eda.king_county_house_details, eda.king_county_house_sales)
+- Row counts of each raw table
+- Null-value check per table/column
+- How the tables relate (house_details.id = house_sales.house_id)
+- Why some houses appear more than once in house_sales (multiple sale events)
+- How you joined them (DISTINCT ON, keeping the most recent sale per house)
+- Final row count after joining, and why it differs from the raw table counts
+
+## 3. Data Dictionary
+(the column table you already built)
+
+## 4. Data Cleaning
+- The is_renovated bug (NaN == 0 issue) and how you fixed it
+- Any other cleaning steps
+
+## 5. Chosen Client & Hypotheses
+- Jennifer Montgomery, her goals/assumptions
+- H1, H2, H3 with context, test, and verdict
+
+## 6. Key Insights & Recommendations
+
+## 7. Limitations
+
+
+
+
+
 ## Data Dictionary
 
 | Column | Description |
