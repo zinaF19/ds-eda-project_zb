@@ -221,7 +221,7 @@ optimistic, independent of how fast any single sale might close.
 ## 7. Limitations
 
 
-
+## Filtering Journey
 
 Here's the brief journey, start to finish:
 
@@ -238,5 +238,7 @@ Finally, we verified that house wasn't just "good because the whole list is good
 That's the full path from 21,420 raw houses to one confidently recommended home for Jennifer — every step documented, every assumption stated, and the final pick backed by both a visual and a number.
 
 https://www.google.com/maps?q=47.6515,-122.277
+
+
 
 
